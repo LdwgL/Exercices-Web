@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="calculatrice.css" />
+    <title>Calculatrice</title>
+</head>
+
+<body>
+    <div id="container">
+        <div id="calculator">
+            <div id="header">
+                <input id="number" type="text">
+            </div>
+            <div>
+                <article>1</article>
+                <article>2</article>
+                <article>3</article>
+                <article>+</article>
+                <article>4</article>
+                <article>5</article>
+                <article>6</article>
+                <article>-</article>
+                <article>7</article>
+                <article>8</article>
+                <article>9</article>
+                <article>*</article>
+                <article>=</article>
+                <article>0</article>
+                <article>CE</article>
+                <article>/</article>
+            </div>
+        </div>
+    </div>
+    <h1>Calculatrice</h1>
+    </div>
+    <script>
+
+var ecran = document.getElementById("number");
+
+     function enter() {
+         var saisie = this.textContent;
+           var ajouter = ecran.value += saisie;
+
+     }
+
+function resultat(){
+    var res = ecran.value; 
+    var resu = eval(res);
+    ecran.value = resu;
+}
+
+function erase() {
+    
+        ecran.value = "";
+
+     }
+        document.getElementsByTagName("article")[0].addEventListener('click', enter);
+        document.getElementsByTagName("article")[1].addEventListener('click',enter);
+        document.getElementsByTagName("article")[2].addEventListener('click',enter);
+        document.getElementsByTagName("article")[3].addEventListener('click',enter);
+        document.getElementsByTagName("article")[4].addEventListener('click',enter);
+        document.getElementsByTagName("article")[5].addEventListener('click',enter);
+        document.getElementsByTagName("article")[6].addEventListener('click',enter);
+        document.getElementsByTagName("article")[7].addEventListener('click',enter);
+        document.getElementsByTagName("article")[8].addEventListener('click',enter);
+        document.getElementsByTagName("article")[9].addEventListener('click',enter);
+        document.getElementsByTagName("article")[10].addEventListener('click',enter);
+        document.getElementsByTagName("article")[11].addEventListener('click',enter,);
+        document.getElementsByTagName("article")[12].addEventListener('click',resultat);
+        document.getElementsByTagName("article")[13].addEventListener('click',enter);
+        document.getElementsByTagName("article")[14].addEventListener('click',erase);
+        document.getElementsByTagName("article")[15].addEventListener('click',enter);
+</script>
+</body>
+
+</html>
