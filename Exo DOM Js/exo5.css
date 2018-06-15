@@ -1,0 +1,15 @@
+h1 
+{
+width:100px;
+}
+
+.defil 
+{
+animation: anyname 2s;
+}
+@keyframes anyname
+{
+0% {margin-left:0px;}
+50% {margin-left:900px;}
+100% {margin-left:0px;}
+}
