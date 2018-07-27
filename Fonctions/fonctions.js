@@ -89,11 +89,6 @@ class Chapitre {
 
 }
 
-// class Maladies  {
-//     constructor()
-// }
-
-// var ch6 = new Chapitre("Chapitre 6", "Chapitre 6 créé avec une classe Javascript");
 console.log(ch6); 
 ch6.afficher();
 
