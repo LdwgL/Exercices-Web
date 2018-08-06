@@ -36,7 +36,7 @@
     <br><br>
     <a href="https://loudthunder64.github.io/Exercices/Ajax fromages/ajax.html" target="_blank">Ajax Fromages</a>
     <br><br>
-    <a href="https://loudthunder64.github.io/Exercices/Ajax fromages/ajax.html" target="_blank">Ajax Fromages</a>
+    <a href="https://loudthunder64.github.io/Exercices/Systeme solaire CSS/systeme.html" target="_blank">Ajax Fromages</a>
     
     
     
