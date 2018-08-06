@@ -39,6 +39,9 @@
     <a href="https://loudthunder64.github.io/Exercices/Systeme solaire CSS/systeme.html" target="_blank">Systeme solaire CSS</a>
     <br><br>
     <a href="https://loudthunder64.github.io/Exercices/Ajax Classes/ajaxclass.html" target="_blank">Fromages Ajax Classes</a>
+    <br><br> 
+    <a href="https://loudthunder64.github.io/Exercices/flipboard/flip.html" target="_blank">Flipboard</a>
+    
     
     
     
