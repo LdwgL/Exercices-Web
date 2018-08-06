@@ -34,7 +34,7 @@
     <br><br>   
     <a href="https://loudthunder64.github.io/Exercices/Exo DOM Js/exo6.html" target="_blank">Exo DOM Js (6)</a>
     <br><br>
-    <a href="https://loudthunder64.github.io/Exercices/Exo DOM Js/exo6.html" target="_blank">Exo DOM Js (6)</a>
+    <a href="https://loudthunder64.github.io/Exercices/Ajax/ajax.html" target="_blank">Ajax Fromages</a>
     
 </body>
 
