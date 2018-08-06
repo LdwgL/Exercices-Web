@@ -29,8 +29,13 @@
     <a href="https://loudthunder64.github.io/Exercices/Exo DOM Js/exo2 3 js.html" target="_blank">Exo DOM Js (2 & 3)</a>
     <br><br>
      <a href="https://loudthunder64.github.io/Exercices/Exo DOM Js/exo4.html" target="_blank">Exo DOM Js (4)</a>
-    
     <br><br>
+     <a href="https://loudthunder64.github.io/Exercices/Exo DOM Js/exo5.html" target="_blank">Exo DOM Js (5)</a>
+    <br><br>   
+    <a href="https://loudthunder64.github.io/Exercices/Exo DOM Js/exo6.html" target="_blank">Exo DOM Js (6)</a>
+    <br><br>
+    <a href="https://loudthunder64.github.io/Exercices/Exo DOM Js/exo6.html" target="_blank">Exo DOM Js (6)</a>
+    
 </body>
 
 </html>
