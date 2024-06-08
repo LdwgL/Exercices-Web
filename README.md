@@ -12,11 +12,11 @@
 <body>
 <h1>Lien ves les exercices</h1>
 <!--https://loudthunder64.github.io/Lien-vers-les-Exos-HTML-CSS-JS/-->
-    <a href="https://loudthunder64.github.io/Exercices/Calculatrice/calculatrice.html" target="_blank">Calculatrice JS-CSS</a>
+    <a href="https://LdwgL.github.io/Exercices/Calculatrice/calculatrice.html" target="_blank">Calculatrice JS-CSS</a>
     <br><br>
-    <a href="https://loudthunder64.github.io/Exercices/Canvas JS/Canvas JS.html" target="_blank">Canvas JS</a>
+    <a href="https://LdwgL.github.io/Exercices/Canvas JS/Canvas JS.html" target="_blank">Canvas JS</a>
     <br><br>
-    <a href="https://loudthunder64.github.io/Exercices/Horloge JS/Horloge JS.html" target="_blank">Horloge JS</a>
+    <a href="https://LdwgL.github.io/Exercices/Horloge JS/Horloge JS.html" target="_blank">Horloge JS</a>
     <br><br>
     <a href="https://loudthunder64.github.io/Exercices/tableaux.html" target="_blank">Tableau HTML</a>
     <br><br>
